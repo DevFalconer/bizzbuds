@@ -11,5 +11,13 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevFalconer/bizzbuds.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevFalconer/bizzbuds/issues"
+  },
+  "homepage": "https://github.com/DevFalconer/bizzbuds#readme"
 }
